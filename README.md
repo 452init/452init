@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Clin am a backend software engineer with passion in building software thst solve real world problems
 - 🔭 I’m currently working on Simple book collection manager API
 - 👯 I’m looking to collaborate on opensource projects in the future
 - 📫 How to reach me:
