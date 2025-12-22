@@ -3,7 +3,7 @@ My name is Clin am a backend software developer with passion in building softwar
 - 🔭 I’m currently working on Simple book collection manager API
 - 👯 I’m looking to collaborate on opensource projects in the future
 - 📫 How to reach me:
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/397d726d-89a5-4427-bbe2-b3ec9df9cb56" />@ugly_monk
+- X @ugly_monk
 
 - ⚡ Fun fact: I love cryptography and blockchain technology, coffeee mostly while coding and listening to music
 
