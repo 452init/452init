@@ -1,23 +1,68 @@
-## Hi there 👋
-My name is Clin am a backend software developer with passion in building software that solve real world problems
-- 🔭 I’m currently working on Simple book collection manager API
-- 👯 I’m looking to collaborate on opensource projects in the future
-- 📫 How to reach me:
-- X @ugly_monk
+<div align="center">
 
-- ⚡ Fun fact: I love cryptography and blockchain technology, coffeee mostly while coding and listening to music
+# Hey, I'm Clin 👋
 
-<!--
-**452init/452init** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Backend+Software+Developer;Cryptography+%26+Blockchain+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 Currently building a **Simple Book Collection Manager API**
+- 👯 Looking to collaborate on **open-source projects**
+- 💡 Passionate about solving real-world problems through software
+- 🔐 Love **cryptography** and **blockchain technology**
+- ☕ Fuelled by coffee and music while coding
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=452init&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=452init&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=452init&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 📬 Connect with Me
+
+<div align="center">
+
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ugly_monk)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Any sufficiently advanced technology is indistinguishable from magic." – Arthur C. Clarke*
+
+</div>
