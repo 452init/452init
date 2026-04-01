@@ -15,7 +15,7 @@ class Clin:
     role        = "Backend Software Developer"
     passion     = "Building software that solves real-world problems"
     currently   = "Working on a Simple Book Collection Manager API"
-    interests   = ["Cryptography", "Blockchain", "Open Source"]
+    interests   = ["Cryptography", "Blockchain", "Hacking" "Open Source"]
     fun_fact    = "Coffee ☕ + Music 🎵 + Code = Magic ✨"
     open_to     = "Open source collaborations"
 ```
@@ -74,7 +74,7 @@ class Clin:
 
 <div align="center">
 
-⚡ *"I love cryptography and blockchain technology — fueled by coffee and background music."*
+⚡ *"I love cryptography, hacking and blockchain technology — fueled by coffee and background music."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="footer"/>
 
