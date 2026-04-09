@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 
 ```python
-class Clin:
+Clin:
     role        = "Backend Software Developer"
     passion     = "Building software that solves real-world problems"
     currently   = "Working on a Simple Book Collection Manager API"
