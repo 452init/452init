@@ -45,8 +45,6 @@ Clin:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=452init&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
-&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=452init&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs=go,python" height="165" alt="Top Languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=452init&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e26&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
